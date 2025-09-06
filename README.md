@@ -54,6 +54,17 @@ A python script that adjusts the brightness of your monitor(s) based on the time
 
     <img src="images/levels.png" alt="Diagram on how to change the levels"/>
 
+7. Install the following packages:
+    ```
+    > pip install monitorcontrol
+    > pip install datetime
+    ```
+
+    If you're running windows, then install the "win10toast" package too:
+    ```
+    > pip install win10toast
+    ```
+
 ## Running the script
 Here's a few ways on how to run the script:
 

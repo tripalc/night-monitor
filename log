@@ -1,0 +1,46 @@
+=== 2025-10-27 17:43:10 ===
+[OK] Options file loaded.
+[OK] Brightness set to 75%.
+[INFO] Sent out notification.
+=== 2025-10-27 17:43:18 ===
+[OK] Options file loaded.
+[OK] Brightness set to 75%.
+[INFO] Sent out notification.
+=== 2025-10-27 17:46:34 ===
+[OK] Options file loaded.
+[OK] Brightness set to 75%.
+[INFO] Sent out notification.
+[INFO] Exiting with code 0.
+=== 2025-10-27 17:46:50 ===
+[ERROR] Options not found. Please set options.json file!
+[INFO] Exiting with code 1.
+=== 2025-10-27 17:54:18 ===
+[OK] Options file loaded.
+[OK] Brightness set to 75%.
+[INFO] Sent out notification.
+[INFO] Exiting with code 0.
+=== 2025-10-27 17:54:30 ===
+[OK] Options file loaded.
+[OK] Brightness set to 25%.
+[INFO] Sent out notification.
+[INFO] Exiting with code 0.
+=== 2025-10-27 17:54:38 ===
+[OK] Options file loaded.
+[OK] Brightness set to 75%.
+[INFO] Sent out notification.
+[INFO] Exiting with code 0.
+=== 2025-10-27 18:00:41 ===
+[OK] Options file loaded.
+[OK] Brightness set to 75%.
+[INFO] Sent out notification.
+[INFO] Exiting with code 0.
+=== 2025-10-27 18:00:54 ===
+[OK] Options file loaded.
+[OK] Brightness set to 25%.
+[INFO] Sent out notification.
+[INFO] Exiting with code 0.
+=== 2025-10-27 18:00:58 ===
+[OK] Options file loaded.
+[OK] Brightness set to 75%.
+[INFO] Sent out notification.
+[INFO] Exiting with code 0.

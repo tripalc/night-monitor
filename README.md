@@ -2,11 +2,18 @@
 A basic python tool that adjusts your monitor's brightness.
 
 ### Setting up...
-0) Make sure your monitor supports DDC/CI and that it is enabled!
-1) Clone/Download the repo.
-2) Rename 'options.example.json' to 'options.json'.
-3) Set the schedule [click here...](#setting-the-schedule)
-4) Run the main.py file whenever you want to change the brightness!
+1) Download and install python. [Click here to go to the download page...](https://www.python.org/downloads/)
+2) Make sure your monitor supports DDC/CI and that it is enabled!
+3) Clone/Download the repo.
+4) Rename 'options.example.json' to 'options.json'.
+5) Set the schedule [click here...](#setting-the-schedule)
+6) Run the 'install.bat' file or install the following packages via pip:
+   - monitorcontrol
+   - datetime
+   - win11toast
+   - json
+   - pathlib
+7) Run the main.py file whenever you want to change the brightness!
 
 *Tip:* I'd recommend creating a shortcut to run the main.py file and putting it on your taskbar/desktop - that way you can run it easily.
 
